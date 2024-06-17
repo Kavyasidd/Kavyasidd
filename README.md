@@ -10,7 +10,7 @@ Software Developer | Enthusiastic Learner 👾🌷
 |---|---|---|
 | Medical Chatbot (MedBot) | Python, NLTK  | Increased user satisfaction by 25% with NLP techniques. |
 | ATM Interface | HTML, CSS, JavaScript ️ | Designed a user-friendly interface for smooth transactions. |
-| Intrusion Detection System | Machine Learning ‍♀️ | Reduced false positives by 30% with OSELM. |
+| Intrusion Detection System | Machine Learning ‍♀️ | Reduced false positives by 30% . |
 
 **Skills**🧚‍♀️
 
