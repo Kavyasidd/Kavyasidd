@@ -2,7 +2,7 @@
 
 Software Developer | Enthusiastic Learner 👾🌷
 
-🏃‍♀️I'm passionate about crafting innovative software solutions and constantly expanding my knowledge in programming, machine learning, and cybersecurity. ✨ When I'm not coding, you can find me asking myself "What's the most interesting problem I can solve today?" 
+🏃‍♀️I'm passionate about crafting innovative software solutions and constantly expanding my knowledge in programming, machine learning, and cybersecurity. ✨ 
 
 **Projects**🛸
 
@@ -31,5 +31,5 @@ Software Developer | Enthusiastic Learner 👾🌷
 * Tech Competition (KIMO) - 4th Place
 * Machine Learning (Infosys) & Network Engineering (CISCO) Courses
   
-* "The greatest happiness is to know the source of unhappiness." - Fyodor Dostoevsky
+* "The greatest happiness is to know the source of unhappiness." - FD
   
