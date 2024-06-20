@@ -2,7 +2,7 @@
 
 Software Developer | Enthusiastic Learner 👾
 
-🏃‍♀️I'm passionate about crafting innovative software solutions and constantly expanding my knowledge in programming, machine learning, and cybersecurity. ✨ 
+🏃‍♀️I'm passionate about crafting innovative software solutions and constantly expanding my knowledge in programming and problem solving. ✨ 
 
 **Projects**
 
@@ -24,12 +24,3 @@ Software Developer | Enthusiastic Learner 👾
 
 * Email: kavyasiddharthan7@gmail.com
 * LinkedIn: [Kavyasiddharthan](https://www.linkedin.com/in/kavyasiddharthan)
-
-**Fun Facts**
-
-* Certified ChatGPT User (GUVI)
-* Tech Competition (KIMO) - 4th Place
-* Machine Learning (Infosys) & Network Engineering (CISCO) Courses
-  
-* "The greatest happiness is to know the source of unhappiness." - FD
-  
