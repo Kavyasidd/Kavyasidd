@@ -1,18 +1,18 @@
-# Hi, I'm Kavya S🧣
+# Hi, I'm Kavya S
 
-Software Developer | Enthusiastic Learner 👾🌷
+Software Developer | Enthusiastic Learner 👾
 
 🏃‍♀️I'm passionate about crafting innovative software solutions and constantly expanding my knowledge in programming, machine learning, and cybersecurity. ✨ 
 
-**Projects**🛸
+**Projects**
 
 | Project Name | Technologies | Description |
 |---|---|---|
 | Medical Chatbot (MedBot) | Python, NLTK  | Increased user satisfaction by 25% with NLP techniques. |
 | ATM Interface | HTML, CSS, JavaScript ️ | Designed a user-friendly interface for smooth transactions. |
-| Intrusion Detection System | Machine Learning ‍♀️ | Reduced false positives by 30% . |
+| Intrusion Detection System | Machine Learning | Reduced false positives by 30% . |
 
-**Skills**🧚‍♀️
+**Skills**
 
 | Category | Skills |
 |---|---|
@@ -25,7 +25,7 @@ Software Developer | Enthusiastic Learner 👾🌷
 * Email: kavyasiddharthan7@gmail.com
 * LinkedIn: [Kavyasiddharthan](https://www.linkedin.com/in/kavyasiddharthan)
 
-**Fun Facts**📚
+**Fun Facts**
 
 * Certified ChatGPT User (GUVI)
 * Tech Competition (KIMO) - 4th Place
